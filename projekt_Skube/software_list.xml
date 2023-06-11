@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<software_list>
+  <software>
+    <name>TensorFlow</name>
+    <description>An open-source machine learning framework.</description>
+    <language>Python</language>
+    <website>https://www.tensorflow.org/</website>
+    <image>tensorflow.jpg</image>
+  </software>
+  <software>
+    <name>OpenCV</name>
+    <description>An open-source computer vision library.</description>
+    <language>C++</language>
+    <website>https://opencv.org/</website>
+    <image>opencv.png</image>
+  </software>
+  <software>
+    <name>PyTorch</name>
+    <description>An open-source deep learning framework.</description>
+    <language>Python</language>
+    <website>https://pytorch.org/</website>
+    <image>pytorch.png</image>
+  </software>
+  <software>
+    <name>Unity</name>
+    <description>A game development platform.</description>
+    <language>C#, UnityScript</language>
+    <website>https://unity.com/</website>
+    <image>unity.png</image>
+  </software>
+  <software>
+    <name>Arduino</name>
+    <description>An open-source electronics platform.</description>
+    <language>C++, Arduino</language>
+    <website>https://www.arduino.cc/</website>
+    <image>arduino.png</image>
+  </software>
+  <software>
+    <name>Node.js</name>
+    <description>A JavaScript runtime environment.</description>
+    <language>JavaScript</language>
+    <website>https://nodejs.org/</website>
+    <image>nodejs.png</image>
+  </software>
+  <software>
+    <name>React</name>
+    <description>A JavaScript library for building user interfaces.</description>
+    <language>JavaScript</language>
+    <website>https://reactjs.org/</website>
+    <image>react.png</image>
+  </software>
+  <software>
+    <name>Pygame</name>
+    <description>A Python library for game development.</description>
+    <language>Python</language>
+    <website>https://www.pygame.org/</website>
+    <image>pygame.png</image>
+  </software>
+  <software>
+    <name>Raspberry Pi</name>
+    <description>A credit card-sized computer for DIY projects.</description>
+    <language>Python, C/C++</language>
+    <website>https://www.raspberrypi.org/</website>
+    <image>raspberry.png</image>
+  </software>
+  <software>
+    <name>SciPy</name>
+    <description>A scientific computing library for Python.</description>
+    <language>Python</language>
+    <website>https://www.scipy.org/</website>
+    <image>scipy.png</image>
+  </software>
+  <software>
+    <name>GPT-3</name>
+    <description>An advanced language processing model developed by OpenAI.</description>
+    <language>Multiple</language>
+    <website>https://www.openai.com/research/gpt-3/</website>
+    <image>gpt3.jpg</image>
+  </software>  
+  <software>
+    <name>Pandas</name>
+    <description>A powerful data manipulation and analysis library for Python.</description>
+    <language>Python</language>
+    <website>https://pandas.pydata.org/</website>
+    <image>pandas.png</image>
+  </software>
+  <software>
+    <name>Numpy</name>
+    <description>A fundamental package for scientific computing with Python.</description>
+    <language>Python</language>
+    <website>https://numpy.org/</website>
+    <image>numpy.png</image>
+  </software>
+  <software>
+    <name>PyBrain</name>
+    <description>A modular machine learning library for Python.</description>
+    <language>Python</language>
+    <website>https://pybrain.org/</website>
+    <image>pybrain.jpg</image>
+  </software>
+  <software>
+    <name>IBM Watson</name>
+    <description>An AI platform provided by IBM for building and deploying smart applications.</description>
+    <language>Multiple</language>
+    <website>https://www.ibm.com/cloud/watson</website>
+    <image>ibmwatson.png</image>
+  </software>
+</software_list>
